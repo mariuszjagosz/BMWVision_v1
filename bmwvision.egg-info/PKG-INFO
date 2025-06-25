@@ -1,0 +1,5 @@
+Metadata-Version: 2.1
+Name: bmwvision
+Version: 0.1
+Summary: Modularny system do segmentacji drogi i rysowania trajektorii GPS
+Author: Mariusz Jagosz, Bartosz Bieniek, Dawid Klimek
