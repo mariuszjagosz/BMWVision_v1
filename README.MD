@@ -49,6 +49,8 @@ Instalacja zależności:
 pip install -r requirements.txt
 ```
 
+### Użycie pretrenowanych modeli
+Pretrenowany model można pobrać z linku: [Modele](https://drive.google.com/drive/folders/1EqBzUw0b17aEumZmWYrGZmbx_XJqU-vz) i umieścić w katalogu models/twinlite/model/pretrained
 ##  Uruchomienie
 
 1. Umieść wideo do analizy w katalogu `data/`.
