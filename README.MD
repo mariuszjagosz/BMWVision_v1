@@ -71,3 +71,7 @@ Wynikowy film zostanie zapisany w katalogu `outputs/`.
 ## 👤 Autorzy
 
 Mariusz Jagosz, Bartosz Bieniek, Dawid Klimek
+
+Segmentacja została oparta na modelu TwinLiteNetPlus autorstwa Quang-Huy Che et al., udostępnionym na licencji MIT.
+Repozytorium: https://github.com/chequanghuy/TwinLiteNetPlus
+Zobacz publikację: https://arxiv.org/abs/2403.16958
